@@ -1,5 +1,6 @@
 +++
 description = "Chief Creative Officer"
+draft = true
 image = "/images/author/john-doe.jpg"
 title = "Lucy Ella"
 
