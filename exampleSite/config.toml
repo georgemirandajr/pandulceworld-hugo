@@ -14,8 +14,8 @@ URL = "Packages"
 name = "Packages"
 weight = 2
 [[menu.main]]
-URL = "packages"
-name = "packages"
+URL = "tools"
+name = "Packages"
 weight = 2
 [[menu.main]]
 URL = "author"
