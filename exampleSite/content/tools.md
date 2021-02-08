@@ -1,4 +1,5 @@
 +++
+image = "/images/la-mascota-52.jpg"
 title = "Packages"
 [menu.footer]
 URL = "tools"
