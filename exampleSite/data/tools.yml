@@ -13,6 +13,3 @@ menu:
   footer:
     name: Subscribe
     weight: 1
-  main:
-    name: Subscribe
-    weight: 1
