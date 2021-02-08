@@ -1,11 +1,10 @@
 +++
+title = "Packages"
 [menu.footer]
 URL = "tools"
-name = "Packages"
 weight = 2
 [menu.main]
 URL = "tools"
-name = "Packages"
 weight = 1
 
 +++
