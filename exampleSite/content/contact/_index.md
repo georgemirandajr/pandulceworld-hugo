@@ -10,7 +10,7 @@ menu:
   footer:
     URL: contact
     name: Contact
-    weight: 1
+    weight: 2
 
 ---
 Please reach out to us if you have any questions.  We typically respond the same day, but response times may vary since we're busy baking!
