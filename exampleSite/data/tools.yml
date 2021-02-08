@@ -33,3 +33,10 @@ Packages:
   - name: Tradicional
     image: "/images/la-mascota-52.jpg"
     link: https://py.pl/uukiw
+menu:
+  main:
+    name: Packages
+    weight: 1
+  footer:
+    name: Packages
+    weight: 1

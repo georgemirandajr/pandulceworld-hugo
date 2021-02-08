@@ -8,10 +8,3 @@ Packages:
     image: "/images/la-mascota-52.jpg"
     link: https://py.pl/uukiw
   title: Menu
-menu:
-  footer:
-    name: Packages
-    weight: 1
-  main:
-    name: Packages
-    weight: 1
