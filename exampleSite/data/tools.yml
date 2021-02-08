@@ -11,7 +11,7 @@ tools:
     link: https://mailchimp.com/
 menu:
   footer:
-    name: Packages
+    name: Subscribe
     weight: 1
   main:
     name: Subscribe
