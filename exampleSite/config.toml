@@ -43,14 +43,14 @@ title = "Welcome to Pan Dulce World!<br> Where it's what's inside that counts :)
 enable = true
 expire_days = 2
 [params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+description = "Receive a box of freshly baked pan dulce delivered twice per month. "
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+title = "Subscribe to a box"
 [params.cta.button]
 enable = true
-label = "Visit Here"
-link = "https://gethugothemes.com/shop/"
+label = "Subscribe"
+link = "https://pandulceworld.netlify.app/tools/"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
