@@ -9,3 +9,7 @@ tools:
   - name: Mailchimp
     image: "/images/tools/MailChimp.jpg"
     link: https://mailchimp.com/
+menu:
+  main:
+    name: Packages
+    weight: 1

@@ -3,13 +3,13 @@ title: Contact Us
 description: Send us an email
 image: images/contact.svg
 menu:
-  main:
-    URL: contact
-    name: Contact
-    weight: 2
   footer:
-    URL: contact
     name: Contact
+    URL: contact
+    weight: 1
+  main:
+    name: Contact
+    URL: contact
     weight: 2
 
 ---
