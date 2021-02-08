@@ -1,7 +1,7 @@
 +++
-title = "John Doe"
+description = "Chief Creative Officer"
 image = "/images/author/john-doe.jpg"
-description = "Front end developer"
-+++
+title = "Lucy Ella"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++++
+I've been helping my data make pan dulce since I was 3 years old.  I made Pan Dulce World! so that I can bring these delicious treats to all my friends and family.  
