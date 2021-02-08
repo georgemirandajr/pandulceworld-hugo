@@ -14,5 +14,5 @@ menu:
     name: Packages
     weight: 1
   main:
-    name: Packages
+    name: Subscribe
     weight: 1
