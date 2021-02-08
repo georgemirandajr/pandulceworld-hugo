@@ -27,3 +27,9 @@ tools:
   - name: Google Analytics
     image: "/images/tools/Google-Analytics.jpg"
     link: https://analytics.google.com/analytics/web
+Packages:
+- title: Tradicional
+  tool:
+  - name: Tradicional
+    image: "/images/la-mascota-52.jpg"
+    link: https://py.pl/uukiw
