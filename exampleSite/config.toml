@@ -9,22 +9,13 @@ title = "Pan Dulce World!"
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.footer]]
-URL = "Packages"
-name = "Packages"
-weight = 2
 [[menu.main]]
-URL = "packages"
-name = "packages"
-weight = 2
-[[menu.main]]
-URL = "author"
-name = "The Team"
-weight = ""
+name = "Author"
+weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 1
+weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
