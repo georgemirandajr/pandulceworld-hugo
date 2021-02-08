@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-description: this is meta description
+description: Send us an email
 image: images/contact.svg
 menu:
   main:
