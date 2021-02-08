@@ -6,24 +6,23 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Northendlab | Blog Template"
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
-[[menu.footer]]
 URL = "tools"
-name = "packages"
+name = "Packages"
 weight = 2
-[[menu.main]]
-URL = "author"
-name = "The Team"
-weight = ""
-[[menu.main]]
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
+name = "Author"
+weight = 3
+[[menu.main]]
 URL = "tools"
-name = "packages"
+name = "Packages"
+weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
 weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
