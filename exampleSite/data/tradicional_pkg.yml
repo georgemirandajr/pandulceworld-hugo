@@ -4,7 +4,7 @@ Packages:
   - name: Tradicional
     image: "/images/la-mascota-52.jpg"
     link: https://py.pl/uukiw
-  - name: ''
-    image: ''
-    link: ''
+  - name: Fancy
+    image: "/images/la-mascota-52.jpg"
+    link: https://py.pl/uukiw
   title: Tradicional
