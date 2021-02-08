@@ -1,10 +1,30 @@
 baseURL = "https://pandulceworld.netlify.app/"
 disqusShortname = ""
 languageCode = "en-us"
-paginate = "5"
+paginate = "3"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Pan Dulce World!"
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 1
+[[menu.footer]]
+URL = "Packages"
+name = "Packages"
+weight = 2
+[[menu.main]]
+URL = "packages"
+name = "packages"
+weight = 2
+[[menu.main]]
+URL = "author"
+name = "The Team"
+weight = ""
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
