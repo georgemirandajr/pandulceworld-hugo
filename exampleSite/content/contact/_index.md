@@ -3,6 +3,10 @@ title: Contact Us
 description: this is meta description
 image: images/contact.svg
 menu:
+  main:
+    URL: contact
+    name: Contact
+    weight: 2
   footer:
     URL: contact
     name: Contact
