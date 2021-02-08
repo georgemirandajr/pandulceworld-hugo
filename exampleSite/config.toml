@@ -6,6 +6,10 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Pan Dulce World!"
 [[menu.footer]]
+URL = ""
+name = ""
+weight = ""
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 1
@@ -14,7 +18,7 @@ URL = "tools"
 name = "Packages"
 weight = 2
 [[menu.main]]
-URL = "tools"
+URL = "packages"
 name = "packages"
 weight = 2
 [[menu.main]]
