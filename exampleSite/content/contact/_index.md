@@ -6,7 +6,7 @@ menu:
   footer:
     name: Contact
     URL: contact
-    weight: 1
+    weight: 2
   main:
     name: Contact
     URL: contact
