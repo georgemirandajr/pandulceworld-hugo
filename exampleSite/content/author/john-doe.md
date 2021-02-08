@@ -3,7 +3,7 @@ description = "Chief Creative Officer"
 image = "/images/author/john-doe.jpg"
 title = "Lucy Ella"
 [menu.main]
-name = "Author"
+name = "About Us"
 weight = 3
 
 +++
