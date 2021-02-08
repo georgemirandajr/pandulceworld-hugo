@@ -18,7 +18,7 @@ URL = "tools"
 name = "Packages"
 weight = 2
 [[menu.main]]
-URL = "Lucy Ella"
+URL = "About Me"
 name = "About Me"
 weight = ""
 [[menu.main]]
