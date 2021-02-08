@@ -9,7 +9,3 @@ tools:
   - name: Mailchimp
     image: "/images/tools/MailChimp.jpg"
     link: https://mailchimp.com/
-menu:
-  footer:
-    name: Subscribe
-    weight: 1
