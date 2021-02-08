@@ -1,10 +1,10 @@
-baseURL = "https://examplesite.com/"
+baseURL = "https://pandulceworld.netlify.app/"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
-title = "Northendlab | Blog Template"
+title = "Pan Dulce World!"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
