@@ -5,6 +5,26 @@ paginate = "3"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Pan Dulce World!"
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 1
+[[menu.footer]]
+URL = "tools"
+name = "Packages"
+weight = 2
+[[menu.main]]
+URL = "tools"
+name = "Packages"
+weight = 2
+[[menu.main]]
+URL = "About Me"
+name = "About Me"
+weight = ""
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
