@@ -10,7 +10,7 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.footer]]
-URL = "tools"
+URL = "Packages"
 name = "Packages"
 weight = 2
 [[menu.main]]
