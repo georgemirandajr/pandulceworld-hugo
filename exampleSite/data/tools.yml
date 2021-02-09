@@ -3,7 +3,7 @@ tools:
 - title: Pan Dulce Packages
   tool:
   - name: Tradicional Package
-    image: "/images/tools/la-mascota-52.jpg"
+    image: "/images/la-mascota-52.jpg"
     link: https://py.pl/uukiw
 - title: Digital Marketing Tools
   tool:
