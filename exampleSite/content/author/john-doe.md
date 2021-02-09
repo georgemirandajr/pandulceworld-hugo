@@ -7,4 +7,4 @@ name = "About Me"
 weight = 3
 
 +++
-I've been helping my dad make pan dulce since I was 3 years old.  I made Pan Dulce World! so that I can bring these delicious treats to all my friends and family.
+I've been helping my dad make pan dulce since I was 3 years old.  I made Pan Dulce World! so that I can bring these delicious treats to all my friends and family.  I hope you get to try them all!
