@@ -19,6 +19,15 @@ fields:
     - type: file
       name: image
       label: image
+    - name: card_description
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Card Description
     - type: text
       name: link
       label: link
