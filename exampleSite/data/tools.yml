@@ -18,6 +18,12 @@ tools:
     link: https://py.pl/uukiw
 Packages:
 - tool:
+  - name: Oreo
+    image: "/images/la-mascota-52.jpg"
+    card_description: 'Lightly dipped in chocolate and coated with Oreo crumbs, these
+      elotes are filled with a mixture of our classic soft dough and that familiar
+      Oreo filling. '
+    link: https://py.pl/uukiw
   - name: Nutella
     image: "/images/la-mascota-52.jpg"
     card_description: 'Our classic elote recipe with a layer of that delicious hazelnut
