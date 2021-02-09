@@ -19,7 +19,7 @@ tools:
 Packages:
 - title: Classic
   tool:
-  - name: Classic
+  - name: Cinnamon and Sugar
     image: "/images/la-mascota-52.jpg"
     card_description: Tasty pan dulce :)
     link: https://py.pl/uukiw
