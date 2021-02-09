@@ -1,6 +1,6 @@
 +++
 description = "Chief Creative Officer"
-image = "/images/author/john-doe.jpg"
+image = "/images/lucy-with-leaves.jpg"
 title = "Lucy Ella"
 [menu.main]
 name = "About Me"
