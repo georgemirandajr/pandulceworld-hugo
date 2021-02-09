@@ -5,6 +5,10 @@ paginate = "3"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Pan Dulce World!"
+[[menu.main]]
+name = "Subscribe"
+url = "www.google.com"
+weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
