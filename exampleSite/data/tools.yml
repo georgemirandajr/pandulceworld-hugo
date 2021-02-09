@@ -1,12 +1,12 @@
 ---
 tools:
-- title: Pan Dulce Packages
+- title: Classic Elotes
   tool:
-  - name: Tradicional Package
+  - name: Cinnamon & Sugar
     image: "/images/la-mascota-52.jpg"
     link: https://py.pl/uukiw
-- title: Fancy Pan Dulce
+- title: Fancy Elotes
   tool:
-  - name: Oreo
+  - name: Oreo, Nutella, M&M's and more
     image: "/images/tools/MailChimp.jpg"
-    link: https://mailchimp.com/
+    link: https://py.pl/uukiw
