@@ -16,7 +16,7 @@ sections:
   label: Tools
   create: documents
   match: "**/*"
-  new_doc_ext: yml
+  new_doc_ext: md
   templates:
   - tools
 - type: directory
