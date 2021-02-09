@@ -18,6 +18,10 @@ tools:
     link: https://py.pl/uukiw
 Packages:
 - tool:
+  - name: Chocolate Dipped
+    image: "/images/la-mascota-52.jpg"
+    card_description: Tasty pan dulce :)
+    link: https://py.pl/uukiw
   - name: M&M's
     image: "/images/la-mascota-52.jpg"
     card_description: Tasty pan dulce :)
