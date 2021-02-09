@@ -4,11 +4,24 @@ tools:
   tool:
   - name: Cinnamon & Sugar
     image: "/images/la-mascota-52.jpg"
-    card_description: "A crisp dough covered in a cinnamon-sugar mixture and filled with soft, buttery dough.  These are called elotes because they resemble a corn cob."
+    card_description: A crisp dough covered in a cinnamon-sugar mixture and filled
+      with soft, buttery dough.  These are called elotes because they resemble a corn
+      cob.
     link: https://py.pl/uukiw
 - title: Fancy Elotes
   tool:
   - name: Oreo, Nutella, M&M's and more
     image: "/images/tools/MailChimp.jpg"
-    card_description: "Our Oreo elotes are like a cookies and cream dream come true. Nutella elotes have a layer of that delicious hazelnut chocolate spread in the middle."
+    card_description: Our Oreo elotes are like a cookies and cream dream come true.
+      Nutella elotes have a layer of that delicious hazelnut chocolate spread in the
+      middle.
     link: https://py.pl/uukiw
+Packages:
+- tool:
+  - name: Nutella
+    image: "/images/la-mascota-52.jpg"
+    card_description: 'Our classic elote recipe with a layer of that delicious hazelnut
+      chocolate spread.  Chocolate chips are also mixed into the middle to give chocolate
+      lovers more to love. '
+    link: https://py.pl/uukiw
+  title: Decadent
