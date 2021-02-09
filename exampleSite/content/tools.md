@@ -5,4 +5,6 @@ image = "/images/la-mascota-52.jpg"
 title = "tools"
 
 +++
-## x--- title: "Tools" draft: false description : "what is this" layout: tools
+## Classic Elotes
+
+A crisp dough covered in a cinnamon-sugar mixture and filled with soft, buttery dough.  These are called elotes because they resemble a corn cob.  
