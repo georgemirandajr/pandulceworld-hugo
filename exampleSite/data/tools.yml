@@ -10,6 +10,10 @@ tools:
     link: https://py.pl/uukiw
 - title: Fancy Elotes
   tool:
+  - name: Nutella
+    image: "/images/la-mascota-52.jpg"
+    card_description: Tasty pan dulce :)
+    link: ''
   - name: Oreo
     image: "/images/la-mascota-52.jpg"
     card_description: Tasty pan dulce :)
