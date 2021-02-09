@@ -5,15 +5,8 @@ tools:
   - name: Tradicional Package
     image: "/images/la-mascota-52.jpg"
     link: https://py.pl/uukiw
-- title: Digital Marketing Tools
+- title: Fancy Pan Dulce
   tool:
-  - name: Mailchimp
+  - name: Oreo
     image: "/images/tools/MailChimp.jpg"
     link: https://mailchimp.com/
-menu:
-  footer:
-    name: Subscribe
-    weight: 1
-  main:
-    name: Subscribe
-    weight: 1
