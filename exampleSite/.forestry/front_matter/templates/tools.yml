@@ -21,7 +21,7 @@ fields:
       label: image
     - name: card_description
       type: textarea
-      default: ''
+      default: Tasty pan dulce :)
       config:
         required: false
         wysiwyg: false
