@@ -1,5 +1,7 @@
 ---
 Packages:
+- title: Fancy
+  tool: []
 - tool:
   - name: Tradicional
     image: "/images/la-mascota-52.jpg"
