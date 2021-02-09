@@ -3,8 +3,8 @@ label: Tools
 hide_body: true
 fields:
 - type: field_group_list
-  name: Packages
-  label: Packages
+  name: tools
+  label: tools
   fields:
   - type: text
     name: title
