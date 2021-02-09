@@ -31,14 +31,14 @@ title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best softwa
 enable = true
 expire_days = 2
 [params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+description = "Try a box today"
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+title = "Pan Dulce"
 [params.cta.button]
 enable = true
-label = "Visit Here"
-link = "https://gethugothemes.com/shop/"
+label = "Subscribe"
+link = "www.google.com"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
