@@ -17,6 +17,12 @@ tools:
       middle.
     link: https://py.pl/uukiw
 Packages:
+- title: Classic
+  tool:
+  - name: Classic
+    image: "/images/la-mascota-52.jpg"
+    card_description: Tasty pan dulce :)
+    link: https://py.pl/uukiw
 - tool:
   - name: Oreo
     image: "/images/la-mascota-52.jpg"
