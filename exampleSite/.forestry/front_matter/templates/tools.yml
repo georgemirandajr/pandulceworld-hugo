@@ -27,7 +27,7 @@ fields:
         wysiwyg: false
         schema:
           format: markdown
-      label: Card Description
+      label: card description
     - type: text
       name: link
       label: link
