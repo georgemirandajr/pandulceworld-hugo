@@ -7,11 +7,7 @@ theme = "northendlab-hugo"
 title = "Pan Dulce World!"
 [[menu.footer]]
 URL = "tools"
-name = "tools"
-weight = 2
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
+name = "Subscribe"
 weight = 1
 [[menu.main]]
 URL = "tools"
