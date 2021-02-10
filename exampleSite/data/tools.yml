@@ -17,7 +17,7 @@ tools:
     image: "/images/nutella.jpg"
     card_description: Tasty pan dulce :)
     link: ''
-  - name: Oreo Box of 4 ($10)
+  - name: Oreo ($10 Box of 4)
     image: "/images/oreo.jpg"
     card_description: Tasty pan dulce :)
     link: ''
