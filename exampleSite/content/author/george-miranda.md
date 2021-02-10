@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 image = ""
 title = "George Miranda"
 
