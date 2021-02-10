@@ -1,5 +1,5 @@
 baseURL = "https://pandulceworld.netlify.app/"
-disqusShortname = ""
+disqusShortname = " https-pandulceworld-netlify-app"
 languageCode = "en-us"
 paginate = "3"
 summaryLength = "10"
