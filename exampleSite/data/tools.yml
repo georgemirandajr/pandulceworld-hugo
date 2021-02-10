@@ -13,7 +13,7 @@ tools:
   - name: M&M's
     image: "/images/la-mascota-52.jpg"
     card_description: Tasty pan dulce :)
-  - name: Nutella
+  - name: Nutella and Chocolate Drizzle
     image: "/images/nutella.jpg"
     card_description: Tasty pan dulce :)
     link: ''
