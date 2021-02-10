@@ -59,7 +59,7 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
-icon = "ti-instagram-alt"
+icon = "ti-instagram"
 link = "#"
 [[params.social]]
 icon = "ti-facebook"
