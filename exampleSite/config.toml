@@ -7,11 +7,11 @@ theme = "northendlab-hugo"
 title = "Pan Dulce World!"
 [[menu.footer]]
 URL = "tools"
-name = "Menu"
+name = "Subscribe"
 weight = 1
 [[menu.main]]
 URL = "tools"
-name = "Menu"
+name = "Subscribe"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
@@ -58,6 +58,9 @@ enable = true
 preloader = ""
 [params.search]
 enable = true
+[[params.social]]
+icon = "ti-instagram"
+link = ""
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
