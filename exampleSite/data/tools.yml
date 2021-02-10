@@ -21,7 +21,7 @@ tools:
     image: "/images/oreo.jpg"
     card_description: Tasty pan dulce :)
     link: ''
-  - name: Chocolate Dipped
+  - name: Chocolate Dipped Box of 4 ($10)
     image: "/images/la-mascota-52.jpg"
     card_description: Our classic elotes lightly dipped in chocolate.
     link: https://py.pl/uukiw
