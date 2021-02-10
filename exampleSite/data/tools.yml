@@ -18,7 +18,7 @@ tools:
     card_description: Tasty pan dulce :)
     link: ''
   - name: Oreo
-    image: ''
+    image: "/images/oreo.jpg"
     card_description: Tasty pan dulce :)
     link: ''
   - name: Chocolate Dipped
