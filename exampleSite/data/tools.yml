@@ -14,7 +14,7 @@ tools:
     image: "/images/la-mascota-52.jpg"
     card_description: Tasty pan dulce :)
   - name: Nutella
-    image: "/images/csc_0378.JPG"
+    image: "/images/nutella.jpg"
     card_description: Tasty pan dulce :)
     link: ''
   - name: Oreo
