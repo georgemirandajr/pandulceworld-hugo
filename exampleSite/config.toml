@@ -7,11 +7,11 @@ theme = "northendlab-hugo"
 title = "Pan Dulce World!"
 [[menu.footer]]
 URL = "tools"
-name = "Menu "
+name = "Subscribe"
 weight = 1
 [[menu.main]]
 URL = "tools"
-name = "Menu "
+name = "Subscribe"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
@@ -34,10 +34,10 @@ expire_days = 2
 description = "Try a box today"
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Pan Dulce"
+title = "Yum"
 [params.cta.button]
 enable = true
-label = "Browse Our Menu"
+label = "See the Menu"
 link = "/tools"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
