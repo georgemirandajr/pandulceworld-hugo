@@ -60,7 +60,7 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ti-instagram"
-link = ""
+link = "#"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
