@@ -7,11 +7,11 @@ theme = "northendlab-hugo"
 title = "Pan Dulce World!"
 [[menu.footer]]
 URL = "tools"
-name = "Subscribe"
+name = "Menu "
 weight = 1
 [[menu.main]]
 URL = "tools"
-name = "Subscribe"
+name = "Menu"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
