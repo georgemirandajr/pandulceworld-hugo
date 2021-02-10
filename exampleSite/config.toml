@@ -1,17 +1,17 @@
 baseURL = "https://pandulceworld.netlify.app/"
 disqusShortname = " https-pandulceworld-netlify-app"
 languageCode = "en-us"
-paginate = "3"
+paginate = "2"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Pan Dulce World!"
 [[menu.footer]]
 URL = "tools"
-name = "Menu"
+name = "Subscribe"
 weight = 1
 [[menu.main]]
 URL = "tools"
-name = "Menu"
+name = "Subscribe"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
