@@ -13,7 +13,7 @@ tools:
   - name: M&M's ($10 Box of 4)
     image: "/images/mms.jpg"
     card_description: Tasty pan dulce :)
-  - name: Nutella and Chocolate Drizzle Box of 4 ($10)
+  - name: Nutella and Chocolate Drizzle ($10 Box of 4)
     image: "/images/nutella.jpg"
     card_description: Tasty pan dulce :)
     link: ''
