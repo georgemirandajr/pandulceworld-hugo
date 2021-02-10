@@ -11,7 +11,7 @@ tools:
 - title: Fancy Elotes
   tool:
   - name: M&M's
-    image: "/images/la-mascota-52.jpg"
+    image: "/images/mms.jpg"
     card_description: Tasty pan dulce :)
   - name: Nutella and Chocolate Drizzle
     image: "/images/nutella.jpg"
