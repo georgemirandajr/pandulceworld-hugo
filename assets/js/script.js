@@ -18,7 +18,7 @@ function showSlides() {
 
   // Preloader js    
   $(window).on('load', function () {
-    $('.preloader').fadeOut(100);
+    $('.preloader').fadeOut(4000);
   });
 
   // navigation
