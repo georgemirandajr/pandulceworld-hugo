@@ -3,7 +3,7 @@
 
   // Preloader js    
   $(window).on('load', function () {
-    $('.preloader').fadeOut(4000);
+    $('.preloader').fadeOut(100);
   });
 
   // navigation
