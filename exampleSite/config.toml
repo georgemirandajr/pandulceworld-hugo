@@ -32,7 +32,7 @@ enable = true
 expire_days = 2
 [params.cta]
 description = "Try a box today"
-enable = true
+enable = false
 image = "images/hugo-muscot.svg"
 title = "Yum"
 [params.cta.button]
