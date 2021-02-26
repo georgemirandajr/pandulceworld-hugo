@@ -7,11 +7,11 @@ theme = "northendlab-hugo"
 title = "Pan Dulce World!"
 [[menu.footer]]
 URL = "tools"
-name = "Menu"
+name = "Subscribe"
 weight = 1
 [[menu.main]]
 URL = "tools"
-name = "Menu"
+name = "Subscribe"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
@@ -22,7 +22,7 @@ copyright = "&copy; 2020 [Pan Dulce World!](https://pandulceworld.netlify.app/) 
 description = "This is meta description"
 google_tag_manager = ""
 home = "Home"
-logo = "images/artboard-1_small.png"
+logo = "images/new-logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
