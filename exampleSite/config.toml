@@ -25,7 +25,7 @@ home = "Home"
 logo = "images/new-logo.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
+image = "/images/new-logo.png"
 title = "Welcome to Pan Dulce World!<br> "
 [params.cookies]
 enable = true
