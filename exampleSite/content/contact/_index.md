@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 description: Send us an email
-image: images/contact.svg
+image: images/artboard-1_contactus.svg
 menu:
   footer:
     name: Contact
