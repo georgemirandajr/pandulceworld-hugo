@@ -22,7 +22,7 @@ copyright = "&copy; 2020 [Pan Dulce World!](https://pandulceworld.netlify.app/) 
 description = "This is meta description"
 google_tag_manager = ""
 home = "Home"
-logo = "images/new-logo-01.png"
+logo = "images/newest_logo.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
