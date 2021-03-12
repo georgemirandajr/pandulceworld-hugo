@@ -26,7 +26,7 @@ logo = "images/new-logo.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "/images/new-logo.png"
-title = "Welcome to Pan Dulce World!<br> "
+title = "Welcome to<br> "
 [params.cookies]
 enable = true
 expire_days = 2
