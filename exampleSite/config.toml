@@ -25,7 +25,7 @@ home = "Home"
 logo = "images/logo-solo.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "/images/new-logo.png"
+image = "images/banner/illustration.svg"
 title = "Welcome to<br> "
 [params.cookies]
 enable = true
